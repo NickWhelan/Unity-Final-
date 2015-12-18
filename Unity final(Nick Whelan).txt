@@ -1,0 +1,8 @@
+Nick Whelan Unity Final
+Worked with Raymond Micheau and Andrew Palangio
+
+- worked on high concept prototype (didnt make it to final)
+- worked on character controller prototype (didnt make it to final)
+- worked on a script to allow the player to pick up objects (didnt make it to final)
+- worded on a new map (didnt make it to final do to collision issues)
+- build a flamethrower partical system
